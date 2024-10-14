@@ -5,6 +5,8 @@
   - Custom ADF app to display images process by AWS Rekognition: https://github.com/robwilds/chimera
   - Flask/Python app that serves as microservice to fetch and change info within alfresco: https://github.com/robwilds/queryAlfrescoAPI
 
+- 🌱 I’m currently learning ML integration
+  
 - 💬 Ask me about Alfresco products and solutions
 
 - 📫 How to reach me: robert.wilds@hyland.com
