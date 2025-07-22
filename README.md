@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Items I've built which may be of interest
+  - MCP server with some tools specifically for Alfresco: https://github.com/robwilds/pythonMCP
   - File Plan Upload using NARA GRS spreadsheet: https://github.com/robwilds/FilePlanUploadADW5
   - Custom ADF app to display images process by AWS Rekognition: https://github.com/robwilds/chimera
   - Flask/Python app that serves as microservice to fetch and change info within alfresco: https://github.com/robwilds/queryAlfrescoAPI
