@@ -5,7 +5,8 @@
   - File Plan Upload using NARA GRS spreadsheet: https://github.com/robwilds/FilePlanUploadADW5
   - Custom ADF app to display images process by AWS Rekognition: https://github.com/robwilds/chimera
   - Flask/Python app that serves as microservice to fetch and change info within alfresco: https://github.com/robwilds/queryAlfrescoAPI
-  - Complete alfresco community demo with various customizations and an html/python Service Control App: [https://github.com/robwilds/AlfrescoEnterpriseDemoWithControlApp](https://github.com/robwilds/AlfrescoCommunity26WithControlPlane)
+  - Complete alfresco community demo with various customizations and an html/python Service Control App: [https://github.com/robwilds/AlfrescoCommunity26WithControlApp](https://github.com/robwilds/AlfrescoCommunity26WithControlPlane)
+  - incoai/Splash wrapper for local inferencing: https://github.com/robwilds/splashControl
 
 - 🌱 I’m currently learning ML integration
   
